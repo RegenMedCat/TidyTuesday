@@ -14,3 +14,4 @@ Year | Week | Challenge | My submission
 2020 | Week 33 | [Avatar: The Last Airbender](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-08-11/readme.md) | [Avatar.r](2020/Week%2033/Avatar.r)
 2020 | Week 42 | [`datasauRus` dozen](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-10-13/readme.md) | [Datasaurus Dozen.r](2020/Week%2042/DatasaurusDozen.r)
 2020 | Week 45 | [IKEA Furniture](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-11-03/readme.md) | [IKEA Furniture.r](2020/Week%2045/IKEAFurniture.r)
+2021 | Week 3 | [Art Collections](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-01-12/readme.md) | [Art Collections.r](2021/Week%2103/ArtCollections.r)
