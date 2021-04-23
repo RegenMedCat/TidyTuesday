@@ -18,3 +18,4 @@ Year | Week | Challenge | My submission
 2021 | Week 5 | [Plastic Pollution](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-01-26/readme.md) | [Plastic Pollution.r](2021/Week%205/PlasticPollution.r)
 2021 | Week 12 | [Video Games + Sliced](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-03-16/readme.md) | [Games.r](2021/Week%2012/Games.r)
 2021 | Week 15 | [Deforestation](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-04-06/readme.md)  | [Forests.r](2021/Week%2015/Forests.r)
+2021 | Week 17 | [Netflix Shows](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-04-20/readme.md)  | [Netflix.r](2021/Week%2017/Netflix.r)
