@@ -20,3 +20,4 @@ Year | Week | Challenge | My submission
 2021 | Week 15 | [Deforestation](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-04-06/readme.md)  | [Forests.r](2021/Week%2015/Forests.r)
 2021 | Week 17 | [Netflix Shows](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-04-20/readme.md)  | [Netflix.r](2021/Week%2017/Netflix.r)
 2021 | Week 18 | [CEO Departures](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-04-27/readme.md)  | [CEOs.r](2021/Week%2018/CEOs.r)
+2021 | Week 31 | [Olympics](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-07-27/readme.md)  | [Olympics.r](2021/Week%2031/Olympics.r)
