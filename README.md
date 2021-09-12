@@ -22,4 +22,4 @@ Year | Week | Challenge | My submission
 2021 | Week 18 | [CEO Departures](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-04-27/readme.md)  | [CEOs.r](2021/Week%2018/CEOs.r)
 2021 | Week 31 | [Olympics](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-07-27/readme.md)  | [Olympics.r](2021/Week%2031/Olympics.r)
 2021 | Week 35 | [Lemurs](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-08-24/readme.md)  | [Lemurs.r](2021/Week%2035/Lemurs.r)
-2021 | Week 35 | [Formula 1 Races](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-09-07/readme.md)  | [F1.r](2021/Week%2037/F1.r)
+2021 | Week 37 | [Formula 1 Races](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-09-07/readme.md)  | [F1.r](2021/Week%2037/F1.r)
