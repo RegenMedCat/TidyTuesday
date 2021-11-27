@@ -46,7 +46,7 @@ p <- episodes %>%
           plot.background = element_rect(fill = '#102372'),
           axis.line = element_line(colour = "white"),
           axis.ticks = element_line(colour = "white")) +
-    scale_x_continuous(expand = c(0, 0), breaks = seq(0, 13, 1)) +  #Customising axis breaks
+    scale_x_continuous(expand = c(0, 0), limits = c(0, 13), breaks = seq(0, 13, 1)) +  #Customising axis breaks
     xlab("Episode Number") +  #Adding labels and caption
     ylab("UK Viewers") +
     labs(caption = "Data source: datardis") +   #Adding caption
