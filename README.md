@@ -24,3 +24,4 @@ Year | Week | Challenge | My submission
 2021 | Week 35 | [Lemurs](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-08-24/readme.md)  | [Lemurs.r](2021/Week%2035/Lemurs.r)
 2021 | Week 37 | [Formula 1 Races](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-09-07/readme.md)  | [F1.r](2021/Week%2037/F1.r)
 2021 | Week 48 | [Dr Who](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-11-23/readme.md)  | [DrWho.r](2021/Week%2048/DrWho.r)
+2022 | Week 20 | [Eurovision](https://github.com/rfordatascience/tidytuesday/blob/master/data/2022/2022-05-17/readme.md)  | [Eurovision.r](2022/Week%2020/Eurovision.r)
